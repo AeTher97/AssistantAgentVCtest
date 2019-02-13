@@ -1,0 +1,114 @@
+[
+  {
+    "id": "c0188d90-04cd-4986-a1da-2040e55b7050",
+    "data": [
+      {
+        "text": "Transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "67 polish zloty",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Adrian",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632463
+  },
+  {
+    "id": "105ad377-b866-4205-aed8-56bbd2b4c72a",
+    "data": [
+      {
+        "text": "Make a payment of ",
+        "userDefined": false
+      },
+      {
+        "text": "34 dollars",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Hank",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632463
+  },
+  {
+    "id": "dcb79486-a76c-45aa-a890-a6f7daefa9c0",
+    "data": [
+      {
+        "text": "Transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "56 euro",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Maria",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632463
+  },
+  {
+    "id": "568583ac-c4db-486c-b48e-2191886a3764",
+    "data": [
+      {
+        "text": "Pay ",
+        "userDefined": false
+      },
+      {
+        "text": "100 dollars",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Thomas",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632463
+  }
+]

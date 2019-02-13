@@ -1,0 +1,52 @@
+[
+  {
+    "id": "db543298-67cf-4145-8144-a201124f885d",
+    "data": [
+      {
+        "text": "What is Asseco ",
+        "userDefined": false
+      },
+      {
+        "text": "Poland",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stock value",
+        "alias": "stockPrice",
+        "meta": "@stockPrice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540652538
+  },
+  {
+    "id": "3a8f6ec1-82f3-462a-ae6b-4ae03841c2cf",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "Asseco stock",
+        "alias": "stockPrice",
+        "meta": "@stockPrice",
+        "userDefined": false
+      },
+      {
+        "text": " price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540652538
+  }
+]

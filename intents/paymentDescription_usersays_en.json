@@ -1,0 +1,58 @@
+[
+  {
+    "id": "08f395ea-2e90-4ebf-83a6-5b0992dd1a53",
+    "data": [
+      {
+        "text": "beer",
+        "alias": "paymentDescription",
+        "meta": "@paymentDescription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540649984
+  },
+  {
+    "id": "d4c2c318-c22f-4ca8-9696-82572ef78870",
+    "data": [
+      {
+        "text": "food",
+        "alias": "paymentDescription",
+        "meta": "@paymentDescription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540649984
+  },
+  {
+    "id": "cfff74ca-fd40-4f85-947e-8bc752deedd2",
+    "data": [
+      {
+        "text": "pizza",
+        "alias": "paymentDescription",
+        "meta": "@paymentDescription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540649984
+  },
+  {
+    "id": "3d0063d3-5890-4954-bdfd-7024747afa28",
+    "data": [
+      {
+        "text": "uber",
+        "alias": "paymentDescription",
+        "meta": "@paymentDescription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540649984
+  }
+]

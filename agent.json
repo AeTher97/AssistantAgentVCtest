@@ -1,0 +1,56 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "codeplay-assistant",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "38a5700e-e175-4e8c-9d2e-0451320de18c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7d3801c3-b21a-4c25-a670-98645c372649",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "23ac3cc3-01e4-4255-a81e-3fbe53d5e6a2"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Kaliningrad",
+  "webhook": {
+    "url": "https://us-central1-codeplay-assistant.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "de"
+  ],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

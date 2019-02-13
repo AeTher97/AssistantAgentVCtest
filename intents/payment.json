@@ -1,0 +1,68 @@
+{
+  "id": "7d3801c3-b21a-4c25-a670-98645c372649",
+  "name": "payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "payment-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "context1",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "47d8f7dc-207c-4969-93df-e901c1d1f9dd",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What amount do you want to transfer?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "9a5ddfd1-de7b-45e3-b6aa-69fd31fa69d1",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To whom do you want to transfer the money?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540640505,
+  "fallbackIntent": false,
+  "events": []
+}

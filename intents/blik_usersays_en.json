@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dcdda2c7-d8fc-4cc4-b73d-03f3c366f40b",
+    "data": [
+      {
+        "text": "give me the code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543678262
+  },
+  {
+    "id": "926ee6cb-12a9-4ed8-85f9-90e5d894a56d",
+    "data": [
+      {
+        "text": "show me the pay code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543678262
+  },
+  {
+    "id": "568a4b60-95f8-4638-8fbd-29e719438dab",
+    "data": [
+      {
+        "text": "generate new blik check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543678262
+  },
+  {
+    "id": "dfbb31e7-838e-4fcc-b9fc-66e7ef0a14a9",
+    "data": [
+      {
+        "text": "show me my blik code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543678262
+  }
+]

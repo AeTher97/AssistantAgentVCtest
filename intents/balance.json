@@ -1,0 +1,37 @@
+{
+  "id": "38a5700e-e175-4e8c-9d2e-0451320de18c",
+  "name": "balance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "641f2b78-7a79-4208-8fee-709eddb675f6",
+          "required": true,
+          "dataType": "@balance",
+          "name": "balance",
+          "value": "$balance",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540647033,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ce595d04-6ce5-48cd-9fcc-d5f1c43d844a",
+    "data": [
+      {
+        "text": "Account",
+        "alias": "balance",
+        "meta": "@balance",
+        "userDefined": false
+      },
+      {
+        "text": " status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540647033
+  },
+  {
+    "id": "a5c06416-3c57-4f5c-9818-5ac7f561a845",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "alias": "balance",
+        "meta": "@balance",
+        "userDefined": true
+      },
+      {
+        "text": " do I own",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540647033
+  },
+  {
+    "id": "a655b2b7-9616-41f9-acb1-76e9bad3a4af",
+    "data": [
+      {
+        "text": "check ",
+        "userDefined": false
+      },
+      {
+        "text": "balance",
+        "alias": "balance",
+        "meta": "@balance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540647033
+  },
+  {
+    "id": "058a1427-8626-4dcb-9ea8-1bd8c59d3562",
+    "data": [
+      {
+        "text": "Check my ",
+        "userDefined": false
+      },
+      {
+        "text": "balance",
+        "alias": "balance",
+        "meta": "@balance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540647033
+  }
+]

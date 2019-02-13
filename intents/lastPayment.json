@@ -1,0 +1,36 @@
+{
+  "id": "76c74514-f604-4dc6-832c-6a583fb666e9",
+  "name": "lastPayment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00a7a43e-1f4c-4b09-9f31-c08c832c9156",
+          "dataType": "@lastPayment",
+          "name": "lastPayment",
+          "value": "$lastPayment",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540651211,
+  "fallbackIntent": false,
+  "events": []
+}

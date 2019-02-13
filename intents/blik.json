@@ -1,0 +1,30 @@
+{
+  "id": "897a23d2-9405-447d-9394-796bf0403776",
+  "name": "blik",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your BLIK code is: 263 492"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543678262,
+  "fallbackIntent": false,
+  "events": []
+}

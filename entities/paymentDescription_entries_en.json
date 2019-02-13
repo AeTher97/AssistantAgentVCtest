@@ -1,0 +1,25 @@
+[
+  {
+    "value": "food",
+    "synonyms": [
+      "food",
+      "pizza",
+      "drinks",
+      "beer",
+      "party",
+      "drink"
+    ]
+  },
+  {
+    "value": "uber",
+    "synonyms": [
+      "uber",
+      "taxi",
+      "bus",
+      "transport",
+      "travel",
+      "tickets",
+      "cinema tickets"
+    ]
+  }
+]

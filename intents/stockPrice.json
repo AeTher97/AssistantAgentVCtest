@@ -1,0 +1,43 @@
+{
+  "id": "5833abd3-2bb6-42f0-8c33-7646c5de5bcb",
+  "name": "stockPrice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f84d543-e0f7-435b-9f6a-74456abe3e88",
+          "dataType": "@stockPrice",
+          "name": "stockPrice",
+          "value": "$stockPrice",
+          "isList": false
+        },
+        {
+          "id": "8552cb79-34fc-40c7-8536-c6e64dc28dfc",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540652538,
+  "fallbackIntent": false,
+  "events": []
+}
